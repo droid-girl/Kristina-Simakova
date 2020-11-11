@@ -17,9 +17,9 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ARCore Augmented Faces without Sceneform with Kotlin](https://creativetech.blog/home/augmented-faces-without-sceneform)
 - [Interactive AR with Scene Viewer and Android Intent](https://creativetech.blog/home/scene-viewer-with-android-intent)
 - [Customise Instruction View in ARCore](https://creativetech.blog/home/customize-instruction-view-arcore)
 - [Face Landmarks for ARCore Augmented Faces](https://creativetech.blog/home/face-landmarks-for-arcore-augmented-faces)
 - [Instagram - like filter "Which ... are you?" with ARCore Augmented Faces](https://creativetech.blog/home/which-are-you-instagram-like-filter-arcore)
-- [Shapes, textures and materials with ARCore and Sceneform](https://creativetech.blog/home/arcore-shapes-materials)
 <!-- BLOG-POST-LIST:END -->
