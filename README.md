@@ -17,9 +17,9 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ARCore: Google I/O 2021 Update](https://creativetech.blog/home/arcore-google-io-2021-update)
+- [Onboarding UX for Mobile AR](https://creativetech.blog/home/onboarding-ux-ar-app)
 - [ARCore Augmented Faces without Sceneform with Kotlin](https://creativetech.blog/home/augmented-faces-without-sceneform)
 - [Interactive AR with Scene Viewer and Android Intent](https://creativetech.blog/home/scene-viewer-with-android-intent)
 - [Customise Instruction View in ARCore](https://creativetech.blog/home/customize-instruction-view-arcore)
-- [Face Landmarks for ARCore Augmented Faces](https://creativetech.blog/home/face-landmarks-for-arcore-augmented-faces)
-- [Instagram - like filter "Which ... are you?" with ARCore Augmented Faces](https://creativetech.blog/home/which-are-you-instagram-like-filter-arcore)
 <!-- BLOG-POST-LIST:END -->
