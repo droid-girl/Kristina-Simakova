@@ -4,7 +4,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/KristiSimakova?style=social) 
 
 💬  I am currently working on **ARCore codelabs**. Check out [ARCore.How](https://arcore.how) to learn more
+ARCore codelabs:
 
+[Augmented Faces with ARCore](https://kristina-simakova.github.io/arfaces_intro_codelab/)
 
 **Languages and Tools:**  
 
@@ -24,5 +26,5 @@
 - [Customise Instruction View in ARCore](https://creativetech.blog/home/customize-instruction-view-arcore)
 <!-- BLOG-POST-LIST:END -->
 
-<
-https://kristina-simakova.github.io/arfaces_intro_codelab/
+
+
