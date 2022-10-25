@@ -15,6 +15,9 @@
 <br> **ARCore codelabs:**
 
 [Augmented Faces with ARCore](https://kristina-simakova.github.io/arfaces_intro_codelab/)
+[Photobooth with ARCore](https://kristina-simakova.github.io/arcore_photobooth_codelab/)
+
+ 
 
 ### Latest Blog Posts
 
