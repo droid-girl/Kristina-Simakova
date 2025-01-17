@@ -13,8 +13,8 @@
 
 
 <br> **ARCore codelabs:**
-<br>[Augmented Faces with ARCore](https://kristina-simakova.github.io/arfaces_intro_codelab/)
-<br>[Photobooth with ARCore](https://kristina-simakova.github.io/arcore_photobooth_codelab/)
-<br>[Make-up with ARCore](https://kristina-simakova.github.io/arcore_makeup_codelab/)
+<br>[Augmented Faces with ARCore](https://droid-girl.github.io/arfaces_intro_codelab/)
+<br>[Photobooth with ARCore](https://droid-girl.github.io/arcore_photobooth_codelab/)
+<br>[Make-up with ARCore](https://droid-girl.github.io/arcore_makeup_codelab/)
 
 
