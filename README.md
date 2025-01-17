@@ -1,4 +1,4 @@
-![Cover](https://github.com/Kristina-Simakova/Kristina-Simakova/blob/master/1500x500.jpeg "Cover")
+![Cover](https://github.com/Kristina-Simakova/Kristina-Simakova/blob/master/cover.jpeg "Cover")
 ### Hi there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/KristiSimakova?style=social) 
