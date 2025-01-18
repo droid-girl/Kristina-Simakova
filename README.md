@@ -4,6 +4,16 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/KristiSimakova?style=social) 
 
+## Facts about me 👩‍💻
+
+- Engineering Manager since 2020
+- Android developer since 2011
+- Expertise: Android, AR, Media and Maps
+- Google for Startups EU mentor
+- Open-source contributor
+- Former Android and Maps GDE
+- RoadToGDE program mentor
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
