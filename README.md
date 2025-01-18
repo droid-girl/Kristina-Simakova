@@ -14,5 +14,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=droid-girl&show_icons=true&theme=synthwave)
 
+<br> **My recent talks:**
+<br>[Video Editing on Android with Media3 at Droidcon London 2024](https://www.droidcon.com/2024/11/22/video-editing-on-android-with-media3-2/)
+<br>[Video Editing on Android with Media3 at Droidcon Berlin 2024](https://www.droidcon.com/2024/08/30/video-editing-on-android-with-media3/)
+
+
 
 
